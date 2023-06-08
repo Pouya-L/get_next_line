@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: plashkar <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/05/31 15:15:38 by plashkar          #+#    #+#             */
-/*   Updated: 2023/06/08 21:17:20 by plashkar         ###   ########.fr       */
+/*   Created: 2023/06/08 21:19:30 by plashkar          #+#    #+#             */
+/*   Updated: 2023/06/08 21:21:15 by plashkar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 //gets the length of strings, needed later for malloc
 
