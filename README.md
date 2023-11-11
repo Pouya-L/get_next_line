@@ -25,4 +25,4 @@ make fclean
 make re
 ```
 #### To use it in your program
-By including `ft_printf.h` in your header file, you enable the usage of this function in your main program.
+By including `get_next_line.h` in your header file, you enable the usage of this function in your main program.
