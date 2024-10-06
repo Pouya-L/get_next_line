@@ -12,11 +12,11 @@ To use get_next_line in your program, include get_next_line.h in your source fil
 #include "get_next_line.h"
 ```
 
-#### Then, compile your program with get_next_line:
+Then, compile your program with get_next_line:
 ```
 gcc -Wall -Wextra -Werror -o your_program your_program.c get_next_line.c
 ```
-#### Here’s an example of how to use get_next_line in your code:
+Here’s an example of how to use get_next_line in your code:
 ```
 int main(void)
 {
